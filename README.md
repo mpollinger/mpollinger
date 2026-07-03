@@ -1,5 +1,5 @@
-## Hi there 👋
-# I'm Michael Pollinger | Senior Data Scientist & Pipeline Engineer
+
+## Hi there 👋 I'm Michael Pollinger | Senior Data Scientist & Pipeline Engineer
 
 I specialize in building, orchestrating, and maintaining production-grade data pipelines, predictive models, and full-stack visualization apps at scale. 
 
